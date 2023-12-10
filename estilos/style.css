@@ -101,6 +101,10 @@ div.dados > input {
     padding: 4px;
 
 }
+div.dados > input:focus-within {
+    background-color: white;
+   
+}
 
 
 form > input[type=submit] {
@@ -151,6 +155,8 @@ form > a.botao {
     font-weight: bolder;
     padding-left: 5px;
  }
+
+
 
 
 
